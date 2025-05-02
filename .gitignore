@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# C extensions
+*.c
+*.cpp
+*.ipynb_checkpoints
+
+# Logs and debugging
+*.log
+*.out
+*.tmp
+*.bak
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Packaging
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+*.manifest
+
+# PyInstaller
+*.spec
+
+# Mac and Linux
+.DS_Store
+*.swp
+
+# TensorFlow
+*.pb
+*.pbtxt
+*.tflite
+*.keras
+.saved_model/
+checkpoint
+events.out.*
+
+# PyTorch
+*.pt
+*.pth
+*.ptl
+*.ckpt
+
+# Ignore other folders
+results*/
+hsc_dataset/
+
+# Ignore files ending with .bc
+*.bc
