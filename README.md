@@ -1,7 +1,7 @@
 # Hello Street Cat Reident
 
 ## Update
-This code is besed on [this paper](https://arxiv.org/html/2501.02112v1).
+The code here is besed on [this paper](https://arxiv.org/html/2501.02112v1).
 The purpose of this model is to identify pets based on a few images taken from them. 
 This can then be used to enable many automatic pet-related devices (such as auto-feeder or automatic litter box), which is especially usefull in a household with multiple pets.
 
